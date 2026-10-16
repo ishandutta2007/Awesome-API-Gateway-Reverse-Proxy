@@ -61,7 +61,7 @@ The following table benchmarks leading hosted and commercial API gateway platfor
 
 ## 🚀 Open-Source API Gateways & Reverse Proxies
 
-The following curated open-source projects are sorted by **GitHub Stars_Count (descending)**. Every repository includes a direct link to its stargazers page via its social badge.
+The following curated open-source projects are sorted by **GitHub_Stars_Count (descending)**. Every repository includes a direct link to its stargazers page via its social badge.
 
 ### 1. [Caddy](https://github.com/caddyserver/caddy) [![GitHub_Stars](https://img.shields.io/github/stars/caddyserver/caddy?style=social&color=white)](https://github.com/caddyserver/caddy/stargazers)
 * 📜 **License**: Apache-2.0 | 💻 **Primary Language**: Go
